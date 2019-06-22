@@ -2,6 +2,8 @@
 
 ## Tutorial Link - http://studygyaan.com/django/how-to-install-django-web-framework-on-ubuntu
 
+In this tutorial, we’ll setup the Django Framework Environment. We’ll install Python 3, Pip 3 and virtualenv, for providing necessary tools for your Django Web Application.
+
 ### Setup
 1. Create a folder and put all the files inside it.
 2. Create a virtual environtment
